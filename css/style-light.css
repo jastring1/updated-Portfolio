@@ -1317,7 +1317,7 @@ header .header-mobile .header-toggle i {
     background-color: #222;
     -webkit-border-radius: 27px;
     border-radius: 27px;
-    color: #FBFBFB;
+    color: #555;
 }
 
 .portfolio-section {
@@ -1373,13 +1373,13 @@ header .header-mobile .header-toggle i {
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    color: #fff;
+    color: #555;
 }
 
 .portfolio-section .item figure figcaption h4,
 .portfolio-section .item figure figcaption p {
     opacity: 0;
-    color: #fff;
+    color: rgb(0, 0, 0);
     -webkit-transition: all .1s ease-in;
     -o-transition: all .1s ease-in;
     transition: all .1s ease-in;
